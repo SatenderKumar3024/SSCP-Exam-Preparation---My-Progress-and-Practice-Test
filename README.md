@@ -1,5 +1,4 @@
-SSCP Certification Exam Outline in Details - Satender Kumar
-
+SSCP Certification Exam Outline in Details
 Domain 1: Security Concepts and Practices
 
 1.1 Comply with Codes of Ethics
